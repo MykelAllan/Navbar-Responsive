@@ -28,3 +28,7 @@ This project features a simple, responsive navigation bar built using HTML and C
 </div>
 
 ---
+
+## Dependencies
+
+- [Boxicons](https://boxicons.com/)
