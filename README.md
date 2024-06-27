@@ -4,11 +4,27 @@ This project features a simple, responsive navigation bar built using HTML and C
 
 ## Preview
 
-### Desktop View
-![Desktop View](assets/prev/prev1.png)
+<div align="center">
 
-### Mobile View (Collapsed)
-![Mobile View Collapsed](assets/prev/prev2.png)
+<h3>Desktop View</h3>
+<img src="https://github.com/MykelAllan/Navbar-Responsive/blob/main/assets/prev/prev1.png" alt="Desktop View" width="600">
 
-### Mobile View (Expanded)
-![Mobile View Expanded](assets/prev/prev3.png)
+---
+
+<h3>Mobile View</h3>
+<table>
+  <tr>
+    <td align="center" style="padding-right: 20px;">
+      <h4>Collapsed</h4>
+      <img src="https://github.com/MykelAllan/Navbar-Responsive/blob/main/assets/prev/prev2.png" alt="Mobile View Collapsed" width="300">
+    </td>
+    <td align="center">
+      <h4>Expanded</h4>
+      <img src="https://github.com/MykelAllan/Navbar-Responsive/blob/main/assets/prev/prev3.png" alt="Mobile View Expanded" width="300">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
